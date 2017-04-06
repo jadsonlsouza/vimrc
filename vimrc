@@ -8,7 +8,7 @@ set visualbell		" Use visual bell (no beeping)
 set hlsearch		" Highlight all search results
 set smartcase		" Enable smart-case search
 set autoindent		" Auto-indent new lines
-set mouse=a
+set mouse=a		" Use mouse
 
 set nocompatible	" Use Vim defaults (much better!)
 set bs=indent,eol,start		" allow backspacing over everything in insert mode
